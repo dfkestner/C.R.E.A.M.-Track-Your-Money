@@ -1,0 +1,24 @@
+{
+  "name": "c.r.e.a.m.-track-your-money",
+  "version": "1.0.0",
+  "description": "\"Track your money on or offline\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfkestner/C.R.E.A.M.-Track-Your-Money.git"
+  },
+  "author": "Dorotea Flores-Kestner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfkestner/C.R.E.A.M.-Track-Your-Money/issues"
+  },
+  "homepage": "https://github.com/dfkestner/C.R.E.A.M.-Track-Your-Money#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14"
+  }
+}
