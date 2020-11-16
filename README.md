@@ -6,7 +6,7 @@
 
 Need help managing your dolla dolla bills? C.R.E.A.M. Track Your Money is a PWA that uses MongoDB Atlas and IndexedDB so you can add income when you get the money, and subtract expenses when you spend it, even when you're offline.
 
-![Track Your Money App Screen Shot](https://github.com/dfkestner/C.R.E.A.M.-Track-Your-Money/blob/main/public/images/AppScreenShot.png
+![Track Your Money App Screen Shot](https://github.com/dfkestner/C.R.E.A.M.-Track-Your-Money/blob/main/public/images/AppScreenShot.png)
 
 ## Table of Contents
 
